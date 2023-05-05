@@ -1,1 +1,1 @@
-# Sesores
+# Sensores
